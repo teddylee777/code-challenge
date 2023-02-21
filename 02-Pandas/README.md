@@ -8,3 +8,4 @@
 - [06-전처리, 추가, 삭제](https://colab.research.google.com/github/teddylee777/code-challenge/blob/main/02-Pandas/06-pandas-%EC%A0%84%EC%B2%98%EB%A6%AC-%EC%B6%94%EA%B0%80-%EC%82%AD%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B3%80%ED%99%98-(%EC%8B%A4%EC%8A%B5).ipynb)
 - [07-그룹, 피벗테이블](https://colab.research.google.com/github/teddylee777/code-challenge/blob/main/02-Pandas/07-pandas-groupby-pivottable-(%EC%8B%A4%EC%8A%B5).ipynb)
 - [08-연결, 병합](https://colab.research.google.com/github/teddylee777/code-challenge/blob/main/02-Pandas/08-pandas-concat-merge-(%EC%8B%A4%EC%8A%B5).ipynb)
+- [09-판다스 워크샵](https://colab.research.google.com/github/teddylee777/code-challenge/blob/main/02-Pandas/09-pandas-workshop-titanic-(%EC%8B%A4%EC%8A%B5).ipynb)

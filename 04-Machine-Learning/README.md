@@ -1,6 +1,5 @@
 ## 링크
 
-- [00-머신러닝 개요(PDF)](https://www.dropbox.com/s/udp4pr8gjm9tu7u/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%9A%94%EC%95%BD%EB%B2%84%EC%A0%84-V7.pdf?dl=1)
 - [01-데이터셋 다루기(Datasets)](https://colab.research.google.com/github/teddylee777/code-challenge/blob/main/04-Machine-Learning/01-데이터셋-(Dataset)-다루기-(실습).ipynb)
 - [02-데이터 전처리(Pre-processing)](https://colab.research.google.com/github/teddylee777/code-challenge/blob/main/04-Machine-Learning/02-데이터전처리-(Preprocessing).ipynb)
 - [03-분류(Classification)](https://colab.research.google.com/github/teddylee777/code-challenge/blob/main/04-Machine-Learning/03-분류-(Classifications).ipynb)
